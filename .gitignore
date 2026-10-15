@@ -142,4 +142,5 @@ notebooks/summit-maps/*.svg
 *.xls
 *.xlsx
 *.gpx
-data/strava_raw/
+data/strava_raw/*
+!data/strava_raw/munro_summits.csv

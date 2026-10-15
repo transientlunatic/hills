@@ -1,0 +1,503 @@
+activity_id,activity_name,date,sport_type,distance_m,elevation_gain_m,summit_name,height_m,is_munro,classifications,dobih_number,ambiguous
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Sgurr na Ciche,1040.2,True,Ma|M|Sim,730,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Garbh Chioch Mhor,1012.9,True,Ma|M|Sim,732,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Garbh Chioch Bheag,968.3,False,MT|sSim,734,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Garbh Chioch Bheag East Top,832.8,False,sSim,6379,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Sgurr nan Coireachan,953.8,True,Ma|M|Sim,736,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,An Eag,871.5,False,Sim,3185,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Sgurr Beag,890.0,False,Hu|Sim|sMa,746,False
+18935118527,These Bounds are Rough,2026-06-15T10:37:49,Hike,34497.1,2357,Sgurr Mor,1003.0,True,Ma|M|Sim,733,False
+18377935429,Sgùrr a' Mhaoraich,2026-05-04T11:45:29,Hike,18393.6,1323,Sgurr Coire nan Eiricheallach,891.0,False,Sim,3181,False
+18377935429,Sgùrr a' Mhaoraich,2026-05-04T11:45:29,Hike,18393.6,1323,Sgurr Coire nan Eiricheallach North Top,881.0,False,sSim,6349,False
+18377935429,Sgùrr a' Mhaoraich,2026-05-04T11:45:29,Hike,18393.6,1323,Sgurr a' Mhaoraich,1027.0,True,Ma|M|Sim,684,False
+18377935429,Sgùrr a' Mhaoraich,2026-05-04T11:45:29,Hike,18393.6,1323,Sgurr a' Mhaoraich Beag,948.0,False,MT|sSim,699,False
+18377935429,Sgùrr a' Mhaoraich,2026-05-04T11:45:29,Hike,18393.6,1323,Am Bathaich,899.0,False,Hu|Sim|xMT,714,False
+18362150390,Spidean Mialach & Gleouraich,2026-05-03T10:51:02,Hike,13511.5,1220,Spidean Mialach,996.0,True,Ma|M|Sim,691,False
+18362150390,Spidean Mialach & Gleouraich,2026-05-03T10:51:02,Hike,13511.5,1220,Spidean Mialach West Top,977.0,False,sSim,694,False
+18362150390,Spidean Mialach & Gleouraich,2026-05-03T10:51:02,Hike,13511.5,1220,Creag Coire na Fiar Bhealaich [Craig Coire na Fiar Bhealaich],1006.0,False,MT|Sim,689,False
+18362150390,Spidean Mialach & Gleouraich,2026-05-03T10:51:02,Hike,13511.5,1220,Gleouraich,1035.0,True,Ma|M|Sim,683,False
+18362150390,Spidean Mialach & Gleouraich,2026-05-03T10:51:02,Hike,13511.5,1220,Druim Seileach,840.0,False,sSim,6352,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Mullach nan Coirean,939.3,True,M|Sim|sHu,321,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Mullach nan Coirean SE Top [Mullach nan Coirean South Top],917.5,False,MT|Sim,323,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Mullach nan Coirean East Top,916.6,False,Sim|MT,324,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Stob Ban,999.7,True,Ma|M|Sim,309,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Stob Choire a' Mhail,990.0,False,MT|Sim,310,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Sgurr an Iubhair [Sgor an Iubhair],999.7,False,MT|Sim,308,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Am Bodach,1031.8,True,Ma|M|Sim,303,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Stob Coire a' Chairn South Top,908.7,False,Sim,326,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Stob Coire a' Chairn,981.3,True,Hu|Sim|M,313,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Na Gruagaichean NW Top [Na Gruagaichean North Top],1038.8,False,MT|Sim,302,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Na Gruagaichean,1054.3,True,M|Sim|sHu,301,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Binnein Mor South Top,1062.0,False,MT|sSim,300,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Binnein Mor,1130.0,True,Ma|M|Sim,287,False
+15959248040,Supporting a not-quite-a-Ramsay - Leg 1,2025-09-27T12:00:21,TrailRun,45437.1,3561,Sgurr Eilde Mor,1010.0,True,Ma|M|Sim,305,False
+15536632632,Ben Klibreck,2025-08-21T11:33:41,TrailRun,15020.4,950,Cnoc Sgriodain,544.0,False,5|HF,6808,False
+15536632632,Ben Klibreck,2025-08-21T11:33:41,TrailRun,15020.4,950,Ben Klibreck - Meall nan Con,962.1,True,Ma|M|Sim,1165,False
+15525434151,Ben Hope,2025-08-20T13:16:49,TrailRun,8127.6,915,Ben Hope,927.0,True,Ma|M|Sim,1123,False
+15514459914,Big Hills of Assynt,2025-08-19T10:08:16,Hike,19128.6,1401,Conival,987.0,True,Hu|M|Sim,1184,False
+15514459914,Big Hills of Assynt,2025-08-19T10:08:16,Hike,19128.6,1401,Ben More Assynt West Top,974.0,False,sSim,1185,False
+15514459914,Big Hills of Assynt,2025-08-19T10:08:16,Hike,19128.6,1401,Ben More Assynt,998.0,True,Ma|M|Sim|CoH,1183,False
+15287927513,Above Strathfarrar,2025-07-30T10:47:17,Hike,25907.2,1612,Sgurr na Ruaidhe,993.0,True,Ma|M|Sim,894,False
+15287927513,Above Strathfarrar,2025-07-30T10:47:17,Hike,25907.2,1612,Carn nan Gobhar,992.0,True,Hu|M|Sim,895,False
+15287927513,Above Strathfarrar,2025-07-30T10:47:17,Hike,25907.2,1612,Sgurr a' Choire Ghlais,1083.0,True,Ma|M|Sim,884,False
+15287927513,Above Strathfarrar,2025-07-30T10:47:17,Hike,25907.2,1612,Creag Ghorm a' Bhealaich,1030.0,False,MT|Sim,888,False
+15287927513,Above Strathfarrar,2025-07-30T10:47:17,Hike,25907.2,1612,Sgurr Fhuar-thuill,1049.0,True,Hu|M|Sim|sMa,886,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Beinn a' Chlaidheimh,913.96,False,Ma|C|Sim|xMT,1024,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Beinn a' Chlaidheimh South Top,815.0,False,sSim,6663,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Sgurr Ban,989.0,True,Ma|M|Sim,1009,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Mullach Coire Mhic Fhearchair,1015.2,True,Ma|M|Sim,1007,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Beinn Tarsuinn,933.8,True,Ma|M|Sim,1019,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Suidheachan Fhinn,867.2,False,sSim,6662,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,A' Mhaighdean,967.0,True,Ma|M|Sim,1014,False
+15267821645,The Fisherfield Six,2025-07-28T07:11:34,Hike,40840,2730,Ruadh Stac Mor,918.7,True,Ma|M|Sim|xC,1023,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Creag Dhubh Fannaich,756.0,False,Un,6696,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Beinn Liath Mhor Fannaich,954.0,True,Hu|M|Sim,1046,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Sgurr Mor,1108.9,True,Ma|M|Sim,1040,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Meall nam Peithirean,974.3,False,MT|sSim,1044,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Meall Gorm,949.7,True,Hu|M|Sim,1047,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,Meall Gorm SE Top,922.4,False,MT,1053,False
+15244609565,Eastern Fannaichs,2025-07-26T10:00:12,Hike,26464.8,1589,An Coileachan,924.0,True,Hu|M|Sim|sMa,1052,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Glas Mheall Mor West Top,917.8,False,sSim,1021,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,An Teallach - Bidein a' Ghlas Thuill,1062.5,True,Ma|M|Sim,1003,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,An Teallach - Sgurr Fiona,1058.7,True,Hu|M|Sim|sMa,1004,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Lord Berkeley's Seat,1031.5,False,MT|sSim,1006,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Corrag Bhuidhe Buttress,946.0,False,xMT,1018,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Stob Cadha Gobhlach,958.5,False,Hu|MT|Sim,1015,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Sail Liath West Top,918.7,False,sSim,7823,False
+15234019412,An Teallach,2025-07-25T10:42:32,Hike,22041,1627,Sail Liath,952.4,False,MT|Sim,1017,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Seana Bhraigh,926.0,True,Ma|M|Sim,1069,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Eididh nan Clach Geala,927.0,True,Ma|M|Sim,1068,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Ceann Garbh,968.0,False,MT|sSim,1065,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Meall nan Ceapraichean,977.0,True,Hu|M|Sim,1064,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Cona' Mheall,978.0,True,Ma|M|Sim,1063,False
+15223725959,Ullapool Hills,2025-07-24T08:07:45,TrailRun,39059.5,2162,Beinn Dearg,1084.0,True,Ma|M|Sim,1062,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Toman Coinnich [Toman Coinich],936.6,False,MT|Sim,1048,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,A' Chailleach,998.6,True,Ma|M|Sim,1043,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Sgurr Breac,999.6,True,Ma|M|Sim,1042,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Sgurr nan Each,923.0,True,Hu|M|Sim,1051,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Sgurr nan Clach Geala,1093.0,True,Ma|M|Sim,1041,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Carn na Criche,961.7,False,MT|Sim,1045,False
+15200348866,The Western Fannaichs,2025-07-22T09:55:40,Hike,26707.7,2153,Meall a' Chrasgaidh,934.0,True,Hu|M|Sim,1049,False
+15185862338,An Faochagach,2025-07-21T09:02:18,Hike,14786.8,756,Am Faochagach,953.0,True,Ma|M|Sim,1066,False
+15178906854,Beinn Uais - Glas Leathad Mor,2025-07-20T14:58:56,TrailRun,14806.3,951,An Cabar,946.0,False,MT,1091,False
+15178906854,Beinn Uais - Glas Leathad Mor,2025-07-20T14:58:56,TrailRun,14806.3,951,Ben Wyvis - Glas Leathad Mor,1046.0,True,Ma|M|Sim,1088,False
+15168713795,Gaor Bheinn (Gulvain),2025-07-19T13:46:46,Hike,12609.5,1138,Gulvain South Top,961.0,False,MT|Sim|sHu,775,False
+15168713795,Gaor Bheinn (Gulvain),2025-07-19T13:46:46,Hike,12609.5,1138,Gulvain [Gaor Bheinn],987.0,True,Ma|M|Sim,773,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,An t-Uiriollach,826.0,False,Sim,3191,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Meall Buidhe,946.0,True,Ma|M|Sim,737,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Meall Buidhe SE Top,942.0,False,MT|Sim,738,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Meall Coire na Gaoithe'n Ear,801.3,False,Sim,6381,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Luinne Bheinn East Top,936.0,False,MT|sSim,740,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Luinne Bheinn,939.0,True,Ma|M|Sim,739,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Aonach Sgoilte,849.0,False,Hu|Sim|sMa,750,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Ladhar Bheinn Far South Top,858.0,False,Sim,3186,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Ladhar Bheinn South Top,846.8,False,sSim,6378,False
+14585412972,The Munros of Knoydart,2025-05-24T07:59:19,Hike,36080.6,2329.5,Ladhar Bheinn,1020.0,True,Ma|M|Sim,731,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Sgurr na Forcan,964.6,False,MT|sSim,697,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,The Saddle East Top,959.0,False,sSim|xMT,698,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,The Saddle,1011.5,True,Ma|M|Sim,688,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,The Saddle - Trig Point,1011.2,False,xMT,686,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,The Saddle West Top,975.6,False,sSim|xMT,696,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Spidean Dhomhuill Bhric,940.4,False,MT|Sim,703,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Sgurr Leac nan Each,918.9,False,MT|Sim,707,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Sgurr na Sgine NW Top,942.0,False,MT|sSim,702,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Sgurr na Sgine,946.0,True,Ma|M|Sim,701,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Faochag West Top,880.0,False,sSim,6350,False
+14255956393,The Forcan Ridge and Friends,2025-04-22T11:09:55,Hike,19372.4,1882,Faochag,909.0,False,Sim|xMT,711,False
+14243653416,Sgurr nan Gillean,2025-04-21T09:43:00,Hike,15451.9,1077,Sgurr nan Gillean,966.1,True,Ma|M|Sim,1246,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Sgurr a' Choire Riabhaich,852.0,False,Sim,3201,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Sgurr nan Coireachan,956.0,True,Ma|M|Sim,776,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Meall an Tarmachain,826.0,False,Sim,3203,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Beinn Gharbh,825.0,False,Sim,3204,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Beinn Gharbh East Top,785.0,False,sSim,6420,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Sgurr Thuilm West Top,858.0,False,sSim,6418,False
+13635324783,The Corryhully Horseshoe,2025-02-15T10:04:28,TrailRun,25075.2,1597,Sgurr Thuilm,963.0,True,Ma|M|Sim,774,False
+12351815479,"Skye one more, Lochaber no more",2024-09-07T09:02:22,Hike,27106.6,2129,Aonach Mor,1220.4,True,Hu|M|Sim,281,False
+12351815479,"Skye one more, Lochaber no more",2024-09-07T09:02:22,Hike,27106.6,2129,Aonach Beag,1234.0,True,Ma|M|Sim,279,False
+12351815479,"Skye one more, Lochaber no more",2024-09-07T09:02:22,Hike,27106.6,2129,Carn Mor Dearg,1220.0,True,Ma|M|Sim,282,False
+12351815479,"Skye one more, Lochaber no more",2024-09-07T09:02:22,Hike,27106.6,2129,Ben Nevis [Beinn Nibheis],1344.53,True,Ma|M|Sim|CoH|CoU|CoA|SIB,278,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob Ban,977.0,True,Ma|M|Sim,314,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob Choire Claurigh,1177.0,True,Ma|M|Sim,285,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob a' Choire Leith,1105.0,False,MT,293,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob Coire Cath na Sine,1082.4,False,MT,298,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Caisteal,1106.0,False,MT|Sim,291,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob Coire an Laoigh,1116.0,True,M|Sim,289,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Stob Coire Easain,1080.0,False,MT|Sim,297,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Sgurr Choinnich Mor,1094.0,True,Ma|M|Sim,296,False
+12342461100,The Grey Corries,2024-09-06T09:45:03,Hike,28143,1929,Beinn na Socaich,1007.0,False,MT,306,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Sgurr na Feartaig,863.0,False,Ma|C|Sim,906,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Beinn Tharsuinn Far North Top,809.0,False,sSim,6532,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Beinn Tharsuinn North Top,817.0,False,Sim,3231,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Beinn Tharsuinn,863.0,False,Ma|C|Sim,904,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Bidein a' Choire Sheasgaich North Top,852.0,False,sSim,6530,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Bidein a' Choire Sheasgaich,945.0,True,Ma|M|Sim,898,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Lurg Mhor,987.0,True,Ma|M|Sim,896,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Meall Mor,974.0,False,MT|Sim,897,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Sgurr na Conbhaire,901.9,False,Sim,902,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Sgurr Choinnich,999.3,True,Hu|M|Sim,892,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Sgurr a' Chaorachain,1053.0,True,Ma|M|Sim,885,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Carn nam Fiaclan,993.0,False,MT,893,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Creag Toll a' Choin,1005.3,False,Ma|Sim|xMT,891,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Maoile Lunndaidh,1004.9,True,M,890,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Moruisg,928.0,True,Ma|M|Sim,899,False
+11905133112,Monar Forest,2024-07-15T12:18:56,Hike,52917.7,4074.4,Sgurr nan Ceannaichean,913.43,False,Ma|C|Sim|xMT,900,False
+11888316923,Slioch,2024-07-14T10:25:27,Hike,20499.7,1208,Slioch South Top,932.1,False,sSim,19494,False
+11888316923,Slioch,2024-07-14T10:25:27,Hike,20499.7,1208,Slioch - Trig Point,980.0,False,xMT,1012,False
+11888316923,Slioch,2024-07-14T10:25:27,Hike,20499.7,1208,Slioch,981.0,True,Ma|M|Sim,1010,False
+11888316923,Slioch,2024-07-14T10:25:27,Hike,20499.7,1208,Sgurr an Tuill Bhain,934.0,False,MT|Sim,1020,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Stuc a' Choire Dhuibh Bhig,915.4,False,MT|Sim,969,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Stob a' Choire Liath Mhor,983.5,False,MT|Sim,958,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Liathach - Spidean a' Choire Leith,1054.8,True,Ma|M|Sim,953,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Am Fasarinen,928.6,False,MT|Sim,967,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Mullach an Rathain East Top,974.1,False,sSim,19408,False
+11879548104,Liathach: Big Game Hunting,2024-07-13T09:20:48,Hike,12463.8,1301.3,Liathach - Mullach an Rathain,1023.8,True,Ma|M|Sim,954,False
+11879405185,Giving the car a rest,2024-07-13T08:58:48,Run,3520.2,49.3,Stuc a' Choire Dhuibh Bhig,915.4,False,MT|Sim,969,False
+11879405185,Giving the car a rest,2024-07-13T08:58:48,Run,3520.2,49.3,Stob a' Choire Liath Mhor,983.5,False,MT|Sim,958,False
+11879405185,Giving the car a rest,2024-07-13T08:58:48,Run,3520.2,49.3,Liathach - Spidean a' Choire Leith,1054.8,True,Ma|M|Sim,953,False
+11870598141,Fionn Bheinn,2024-07-12T11:49:38,Hike,14523.3,1015,Meall a' Chaorainn,705.0,False,Ma|G|Sim,1057,False
+11870598141,Fionn Bheinn,2024-07-12T11:49:38,Hike,14523.3,1015,Fionn Bheinn,933.0,True,Ma|M|Sim,1050,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Mullach Clach a' Bhlair,1019.0,True,Hu|M|Sim,571,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Mullach Clach a' Bhlair North Top,953.0,False,sSim,583,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Meall Dubhag,998.0,False,MT|Sim,576,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Carn Ban Mor,1052.0,False,MT|Sim,565,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Sgor Gaoith,1118.0,True,Ma|M|Sim,548,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Sgoran Dubh Mor,1111.0,False,MT|Sim,551,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Meall Buidhe,976.0,False,MT|Sim,579,False
+11862785311,Double Century above Glen Feshie,2024-07-11T09:38:09,TrailRun,31254.1,1336,Geal-charn,920.0,False,MT|Sim,589,False
+11822607647,Beinn Fhionnlaidh,2024-07-06T08:36:24,Hike,21128.2,950,Beinn Fhionnlaidh,959.0,True,Ma|M|Sim,201,False
+11817358912,Beinn Sgulaird,2024-07-05T19:36:10,Hike,8139.26,1183,Druim a' Vuic,488.0,False,4,8202,False
+11817358912,Beinn Sgulaird,2024-07-05T19:36:10,Hike,8139.26,1183,Beinn Sgulaird South Top,863.0,False,Sim,2991,False
+11817358912,Beinn Sgulaird,2024-07-05T19:36:10,Hike,8139.26,1183,Meall Garbh,848.0,False,Sim,2992,False
+11817358912,Beinn Sgulaird,2024-07-05T19:36:10,Hike,8139.26,1183,Beinn Sgulaird,937.0,True,Ma|M|Sim,207,False
+11817358912,Beinn Sgulaird,2024-07-05T19:36:10,Hike,8139.26,1183,Beinn Sgulaird North Top,909.0,False,Sim,210,False
+11689965984,The Easains,2024-06-19T09:55:26,Hike,17818.3,1235,Stob a' Choire Mheadhoin,1105.0,True,Hu|M|Sim|sMa,292,False
+11689965984,The Easains,2024-06-19T09:55:26,Hike,17818.3,1235,Stob Coire Easain,1115.0,True,Ma|M|Sim,290,False
+11681388397,West of Meagaidh,2024-06-18T09:21:42,Hike,18102.7,1209,Beinn a' Chaorainn South Top,1048.5,False,MT|sSim,665,False
+11681388397,West of Meagaidh,2024-06-18T09:21:42,Hike,18102.7,1209,Beinn a' Chaorainn,1049.1,True,Ma|M|Sim,663,False
+11681388397,West of Meagaidh,2024-06-18T09:21:42,Hike,18102.7,1209,Beinn a' Chaorainn North Top,1042.9,False,MT|Sim,666,False
+11681388397,West of Meagaidh,2024-06-18T09:21:42,Hike,18102.7,1209,Beinn Teallach,914.6,True,Ma|M|Sim|xC,675,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Sgurr Eilde Mor,1010.0,True,Ma|M|Sim,305,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Binnein Beag,943.0,True,Ma|M|Sim,320,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Binnein Mor,1130.0,True,Ma|M|Sim,287,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Binnein Mor South Top,1062.0,False,MT|sSim,300,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Na Gruagaichean,1054.3,True,M|Sim|sHu,301,False
+11675188212,The Eastern Mamores,2024-06-17T09:08:12,Hike,24194.8,2073,Na Gruagaichean NW Top [Na Gruagaichean North Top],1038.8,False,MT|Sim,302,False
+11658367632,Ardverikie Trio,2024-06-15T09:28:44,Hike,17318.2,1206,Beinn a' Chlachair,1087.0,True,Ma|M|Sim,349,False
+11658367632,Ardverikie Trio,2024-06-15T09:28:44,Hike,17318.2,1206,Geal Charn,1049.0,True,Ma|M|Sim,350,False
+11658367632,Ardverikie Trio,2024-06-15T09:28:44,Hike,17318.2,1206,Creag Pitridh,924.0,True,Hu|M|Sim,367,False
+10841762769,A' Chraileag: fo shneachda,2024-02-26T11:00:59,Run,14869.4,1022.7,A' Chraileag [A' Chralaig],1120.0,True,Ma|M|Sim,862,False
+10841762769,A' Chraileag: fo shneachda,2024-02-26T11:00:59,Run,14869.4,1022.7,Stob Coire na Craileig [Stob Coire na Cralaig],1008.0,False,MT|Sim,866,False
+9856200554,The Peak of the Mountains,2023-09-15T13:02:05,Hike,18192.1,1373.9,Stob Coire Sgreamhach,1072.0,True,Hu|M|Sim,194,False
+9856200554,The Peak of the Mountains,2023-09-15T13:02:05,Hike,18192.1,1373.9,Bidean nam Bian,1149.4,True,Ma|M|Sim|CoH,191,False
+9856200554,The Peak of the Mountains,2023-09-15T13:02:05,Hike,18192.1,1373.9,Bidean nam Bian West Top,1141.1,False,Un,19757,False
+9856200554,The Peak of the Mountains,2023-09-15T13:02:05,Hike,18192.1,1373.9,Stob Coire nan Lochan,1115.6,False,Hu|MT|Sim,192,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Ben Starav,1079.5,True,Ma|M|Sim,238,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Stob Coire Dheirg (1984-1990 position),1068.0,False,xMT,239,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Stob Coire Dheirg,1027.7,False,MT,242,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Beinn nan Aighenan,960.0,True,Ma|M|Sim,254,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Meall nan Tri Tighearnan,891.8,False,Sim,3000,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Glas Bheinn Mhor,997.7,True,Ma|M|Sim,245,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Stob Coir' an Albannaich,1044.0,True,Ma|M|Sim,241,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Meall Tarsuinn,877.0,False,Sim|sHu,3003,False
+9770808440,Glen Etive Munros,2023-09-02T09:48:59,Run,21588,2343.8,Meall nan Eun,928.0,True,Ma|M|Sim,258,False
+9544877523,Beinn Dearg (final climb),2023-07-29T14:43:31,Hike,7572.13,425.2,Beinn Dearg,1008.7,True,Ma|M|Sim,406,False
+9500414170,"Treasures, springs and Healers",2023-07-22T11:24:47,Run,15966.6,1265.1,Stob an Fhuarain,968.0,False,Hu|MT|Sim,200,False
+9500414170,"Treasures, springs and Healers",2023-07-22T11:24:47,Run,15966.6,1265.1,Sgurr na h-Ulaidh [Sgor na h-Ulaidh],994.0,True,Ma|M|Sim,199,False
+9500414170,"Treasures, springs and Healers",2023-07-22T11:24:47,Run,15966.6,1265.1,Meall Lighiche,772.0,False,Ma|C|Sim,215,False
+9500414170,"Treasures, springs and Healers",2023-07-22T11:24:47,Run,15966.6,1265.1,Creag Bhan,510.0,False,Ma|5|HF,797,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Beinn Alligin - Tom na Gruagaich,922.0,True,Ma|M|Sim,968,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Sgurr Mor West Top,859.0,False,sSim,6619,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Beinn Alligin - Sgurr Mor,986.0,True,Ma|M|Sim,957,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Na Rathanan,864.0,False,Hu|Sim,3245,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Na Rathanan East Top,858.0,False,sSim,7855,False
+9482198395,Beinn Alligin & The Horns,2023-07-19T09:15:50,Hike,11875.1,1111.8,Na Rathanan Far East Top,815.0,False,sSim,19344,False
+9475151324,Beinn Eighe,2023-07-18T10:01:33,Hike,18035.1,1168.9,Beinn Eighe - Spidean Coire nan Clach,993.0,True,Ma|M|Sim,956,False
+9475151324,Beinn Eighe,2023-07-18T10:01:33,Hike,18035.1,1168.9,Coinneach Mhor (1974 position),954.0,False,xMT,964,False
+9475151324,Beinn Eighe,2023-07-18T10:01:33,Hike,18035.1,1168.9,Coinneach Mhor,976.0,False,Hu|MT|Sim,960,False
+9475151324,Beinn Eighe,2023-07-18T10:01:33,Hike,18035.1,1168.9,Beinn Eighe - Ruadh-stac Mor,1010.0,True,Ma|M|Sim,955,False
+9469186052,Coulin Forest,2023-07-17T09:49:35,Hike,21494.7,1168.8,Sgorr Ruadh,960.7,True,Ma|M|Sim,981,False
+9469186052,Coulin Forest,2023-07-17T09:49:35,Hike,21494.7,1168.8,Beinn Liath Mhor,926.0,True,Ma|M|Sim,983,False
+9457488037,Maol Chean-dearg,2023-07-15T10:55:42,Hike,16661,898.6,Maol Chean-dearg,933.0,True,Ma|M|Sim,982,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Carn Ghluasaid,957.0,True,M|Sim,871,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Creag a' Chaorainn,998.0,False,MT|Sim,870,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Sgurr nan Conbhairean,1109.0,True,Ma|M|Sim,863,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Sail Chaorainn,999.2,True,M|Sim,867,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Carn na Coire Mheadhoin,997.9,False,MT|Sim,869,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Carn na Coire Mheadhoin,997.9,False,MT|Sim,869,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Tigh Mor na Seilge,927.4,False,MT|Sim,873,False
+9264544532,Half a Cluanie Horseshoe,2023-06-14T09:00:59,Hike,22206,1434.1,Drochaid an Tuill Easaich,998.5,False,MT|sSim,868,False
+9256162939,A mildly insane tour of Corrie Lagan,2023-06-12T09:31:46,Hike,16544,1205.2,Sgurr Mhic Choinnich,948.1,True,M|Sim,1248,False
+9256162939,A mildly insane tour of Corrie Lagan,2023-06-12T09:31:46,Hike,16544,1205.2,Sgurr Alasdair,992.0,True,Ma|M|Sim|SIB,1239,False
+9256162939,A mildly insane tour of Corrie Lagan,2023-06-12T09:31:46,Hike,16544,1205.2,Sgurr Thearlaich,977.1,False,MT|sSim,1242,False
+9244144153,Above Coir' a' Ghrunnda,2023-06-10T10:04:30,Hike,15909,1176,Stob Coir' a' Ghrunnda,720.0,False,sSim,7887,False
+9244144153,Above Coir' a' Ghrunnda,2023-06-10T10:04:30,Hike,15909,1176,Sgurr nan Eag,926.3,True,Hu|M|Sim,1258,False
+9244144153,Above Coir' a' Ghrunnda,2023-06-10T10:04:30,Hike,15909,1176,Caisteal a' Garbh-Choire,829.8,False,Sim,6855,False
+9244144153,Above Coir' a' Ghrunnda,2023-06-10T10:04:30,Hike,15909,1176,Sgurr Dubh an Da Bheinn,938.0,False,MT|Sim,1252,False
+9244144153,Above Coir' a' Ghrunnda,2023-06-10T10:04:30,Hike,15909,1176,Sgurr Dubh Mor,944.0,True,M|Sim,1250,False
+9244117839,Accessing the Inaccessible,2023-06-09T08:47:39,Hike,13427.8,1118.8,Sgurr Dearg - Inaccessible Pinnacle,985.8,True,Ma|M|Sim,1240,False
+9244117839,Accessing the Inaccessible,2023-06-09T08:47:39,Hike,13427.8,1118.8,Sgurr Dearg - Cairn,978.0,False,xMT,1241,False
+9244117839,Accessing the Inaccessible,2023-06-09T08:47:39,Hike,13427.8,1118.8,Sgurr na Banachdich Central Top,942.0,False,MT|sSim,1251,False
+9244117839,Accessing the Inaccessible,2023-06-09T08:47:39,Hike,13427.8,1118.8,Sgurr na Banachdaich,965.0,True,Hu|M|Sim,1245,False
+9244117839,Accessing the Inaccessible,2023-06-09T08:47:39,Hike,13427.8,1118.8,Sgurr nan Gabhar,132.0,False,1,10670,False
+9220577078,Above Loch Slapin,2023-06-07T11:10:46,Hike,9935.02,931.2,Blabheinn South Top,926.5,False,MT|sSim,1257,False
+9220577078,Above Loch Slapin,2023-06-07T11:10:46,Hike,9935.02,931.2,Blabheinn [Bla Bheinn],929.0,True,Ma|M|Sim,1255,False
+9220577078,Above Loch Slapin,2023-06-07T11:10:46,Hike,9935.02,931.2,The Prow,741.2,False,sSim,7889,False
+9214490042,A Grand Day Out,2023-06-06T09:53:03,Hike,16595.4,1021.6,Am Basteir,934.0,True,M|Sim,1254,False
+9214490042,A Grand Day Out,2023-06-06T09:53:03,Hike,16595.4,1021.6,Sgurr a' Fionn Choire,936.0,False,MT|Sim,1253,False
+9214490042,A Grand Day Out,2023-06-06T09:53:03,Hike,16595.4,1021.6,Bruach na Frithe,958.8,True,Hu|M|Sim,1247,False
+9211948783,Through An Dorus,2023-06-05T10:00:40,Hike,12451.2,911,Sgurr a' Mhadaidh,918.0,True,M|Sim,1259,False
+9211948783,Through An Dorus,2023-06-05T10:00:40,Hike,12451.2,911,Sgurr a' Ghreadaidh,972.1,True,Hu|M|Sim,1243,False
+9211948783,Through An Dorus,2023-06-05T10:00:40,Hike,12451.2,911,Sgurr a' Ghreadaidh South Top,969.9,False,MT,1244,False
+9202722169,Sgurr na Banachdaich,2023-06-04T09:26:59,Hike,11020.4,968.8,Sgurr na Banachdaich,965.0,True,Hu|M|Sim,1245,False
+9202722169,Sgurr na Banachdaich,2023-06-04T09:26:59,Hike,11020.4,968.8,Sgurr na Banachdich Central Top,942.0,False,MT|sSim,1251,False
+9195695821,Journey to the Black Chest,2023-06-03T11:56:27,Hike,13273.9,941.5,Am Bathach South Top,733.7,False,sSim,6453,False
+9195695821,Journey to the Black Chest,2023-06-03T11:56:27,Hike,13273.9,941.5,Am Bathach,798.1,False,Ma|C|Sim,855,False
+9195695821,Journey to the Black Chest,2023-06-03T11:56:27,Hike,13273.9,941.5,An Cnapach,880.7,False,sSim,6447,False
+9195695821,Journey to the Black Chest,2023-06-03T11:56:27,Hike,13273.9,941.5,Ciste Dhubh South Top,932.9,False,sSim,19506,False
+9195695821,Journey to the Black Chest,2023-06-03T11:56:27,Hike,13273.9,941.5,Ciste Dhubh,981.1,True,Ma|M|Sim,834,False
+9190275647,Munro Lates,2023-06-02T17:48:30,Hike,12534.4,1083.7,Meall na Teanga,916.8,True,Ma|M|Sim,759,False
+9190275647,Munro Lates,2023-06-02T17:48:30,Hike,12534.4,1083.7,Sron a' Choire Ghairbh,937.0,True,Ma|M|Sim,758,False
+9148101500,An evening on Buachaille Etive Beag,2023-05-26T18:56:16,Run,8741.8,807.1,Buachaille Etive Beag - Stob Coire Raineach,924.5,True,Ma|M|Sim,209,False
+9148101500,An evening on Buachaille Etive Beag,2023-05-26T18:56:16,Run,8741.8,807.1,Stob Dubh North Top,902.0,False,sSim,3666,False
+9148101500,An evening on Buachaille Etive Beag,2023-05-26T18:56:16,Run,8741.8,807.1,Buachaille Etive Beag - Stob Dubh,958.0,True,Ma|M|Sim,202,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Carn Liath,1006.0,True,M|Sim,668,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Meall an t-Snaim,970.0,False,MT|Sim,672,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Sron Coire a' Chriochairein,993.0,False,MT|sSim,670,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Stob Poite Coire Ardair East Top,1050.0,False,xMT,664,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Stob Poite Coire Ardair,1054.0,True,Hu|M|Sim,662,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Creag Meagaidh East Top,1116.1,False,xMT,659,False
+9082615429,Creag Meagaidh,2023-05-16T10:09:44,Hike,22857.3,1189.5,Creag Meagaidh,1128.1,True,Ma|M|Sim,658,False
+9077124304,Geal Charn,2023-05-15T12:37:22,Hike,13488.7,634.5,Geal Charn,926.0,True,Hu|M|Sim,624,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Garbh-bheinn,857.0,False,Sim,3017,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Meall Garbh,976.0,False,MT|Sim,358,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Meall Garbh (old GR),975.0,False,xMT,357,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Stob Coire Sgriodain South Top,958.0,False,MT|Sim,360,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Stob Coire Sgriodain,979.0,True,M|Sim|sHu,356,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Chno Dearg,1046.0,True,Ma|M|Sim,351,False
+8140146440,East of Loch Treig,2022-11-19T08:05:00,Run,26714.4,1456.6,Beinn na Lap,935.0,True,Ma|M|Sim,364,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,Geal-charn,917.1,True,Ma|M|Sim,392,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,A' Mharconaich,973.2,True,Hu|M|Sim,386,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,Bruach nan Iomairean,969.8,False,xMT,387,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,Beinn Udlamain,1010.2,True,Ma|M|Sim,383,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,Sgairneach Mhor,991.0,True,Ma|M|Sim,384,False
+7930056948,Munro Milestones at Drumochter,2022-10-08T09:07:53,Run,23655.3,1218.1,The Sow of Atholl [Meall an Dobharchain],798.9,False,Ma|C|Sim,401,False
+7676216716,Beinn Sgritheall,2022-08-21T12:18:08,Run,13351.9,1329.5,Beinn Sgritheall East Top,906.0,False,Sim,709,False
+7676216716,Beinn Sgritheall,2022-08-21T12:18:08,Run,13351.9,1329.5,Beinn Sgritheall,974.0,True,Ma|M|Sim,695,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Creag nan Damh,917.2,True,Ma|M|Sim,708,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Sgurr an Lochain,1004.0,True,Hu|M|Sim,690,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Sgurr an Doire Leathain,1010.0,True,Ma|M|Sim,687,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Maol Chinn-dearg,980.3,True,Hu|M|Sim,693,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Maol Chinn-dearg East Top,913.3,False,sSim,18986,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Aonach air Chrith,1019.5,True,Ma|M|Sim,685,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Druim Shionnach West Top,935.4,False,MT|Sim,704,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Druim Shionnach,985.2,True,Hu|M|Sim,692,False
+7672018721,South Glen Shiel,2022-08-20T09:20:25,Hike,31419.8,2034.1,Creag a' Mhaim,946.2,True,M|Sim,700,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Am Bodach,941.9,False,MT|Sim,180,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Meall Dearg East Top,922.9,False,sSim,182,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Aonach Eagach - Meall Dearg,952.3,True,Hu|M|Sim,179,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Aonach Eagach East Peak,906.2,False,Sim,3664,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Aonach Eagach West Peak,904.7,False,Sim,184,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Stob Coire Leith,939.5,False,MT|Sim,181,False
+7631821519,Aonach Eagach,2022-08-13T09:04:22,Hike,12485.4,1159.7,Aonach Eagach - Sgorr nam Fiannaidh,967.7,True,Ma|M|Sim,178,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Cairn Gorm,1244.8,True,Hu|M|Sim|sMa,525,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Stacan Dubha,1014.0,False,MT|sSim,574,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Beinn Mheadhoin SW Top [Beinn Mheadhoin South Top],1163.0,False,sSim|xMT,537,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Beinn Mheadhoin,1182.9,True,Ma|M|Sim,531,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Stob Coire Etchachan,1082.0,False,MT|sSim,561,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Stob Coire an t-Sneachda,1176.0,False,MT|Sim,534,False
+7505983238,Into the Centre,2022-07-21T09:45:14,Hike,28974.5,1716.7,Fiacaill a' Choire Chais,1141.0,False,xMT,542,False
+7493865374,Baking on Bynack Mor,2022-07-19T08:27:54,Run,27116.2,983.8,Bynack More,1090.0,True,Ma|M|Sim,557,False
+7493865374,Baking on Bynack Mor,2022-07-19T08:27:54,Run,27116.2,983.8,A' Choinneach,1017.0,False,MT|Sim,573,False
+7493865374,Baking on Bynack Mor,2022-07-19T08:27:54,Run,27116.2,983.8,Bynack Beg,970.0,False,MT|sSim,582,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Ban,942.3,False,MT|Sim,622,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Dearg,945.7,True,Ma|M|Sim,621,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Dearg SE Top,923.7,False,MT,625,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Ballach (SW Top),919.8,False,MT|Sim,627,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Ballach (NE Top),919.3,False,xMT,629,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Meall a' Bhothain,909.9,False,sSim,630,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Meall a' Bhothain,909.9,False,sSim,630,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Sgulain West Top,907.1,False,Un,19755,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,Carn Sgulain,920.3,True,M|Sim,626,False
+7489712246,"Monadhliath Monday, Fair",2022-07-18T09:48:53,Hike,28304.9,1015.9,A' Chailleach,929.3,True,Hu|M|Sim,623,False
+7441893220,Beinn a' Ghlo,2022-07-09T10:58:20,Hike,24380.7,1279.7,Beinn a' Ghlo - Carn Liath,976.0,True,Ma|M|Sim,429,False
+7441893220,Beinn a' Ghlo,2022-07-09T10:58:20,Hike,24380.7,1279.7,Beinn a' Ghlo - Braigh Coire Chruinn-bhalgain,1070.0,True,Ma|M|Sim,422,False
+7441893220,Beinn a' Ghlo,2022-07-09T10:58:20,Hike,24380.7,1279.7,Airgiod Bheinn,1061.7,False,MT|Sim,423,False
+7441893220,Beinn a' Ghlo,2022-07-09T10:58:20,Hike,24380.7,1279.7,Beinn a' Ghlo - Carn nan Gabhar,1121.9,True,Ma|M|Sim,421,False
+7356756423,"Millstones, Mastiffs, and the Mega-mounth",2022-06-23T10:54:25,Run,21729.8,1187.6,Carn Cloich-mhuilinn,942.0,False,MT|Sim,585,False
+7356756423,"Millstones, Mastiffs, and the Mega-mounth",2022-06-23T10:54:25,Run,21729.8,1187.6,Beinn Bhrotain,1157.0,True,Ma|M|Sim,538,False
+7356756423,"Millstones, Mastiffs, and the Mega-mounth",2022-06-23T10:54:25,Run,21729.8,1187.6,Monadh Mor,1113.0,True,Hu|M|Sim,549,False
+7351452633,Sheep and Speckles in the Massif,2022-06-22T10:05:05,Hike,19917.5,772.2,Beinn Bhreac,931.0,True,M|Sim,587,False
+7351452633,Sheep and Speckles in the Massif,2022-06-22T10:05:05,Hike,19917.5,772.2,Beinn a' Chaorainn,1083.0,True,Ma|M|Sim,559,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,The Neck,64.0,False,0,15566,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,Ben Avon West Top [Ben Avon SW Top],1137.6,False,sSim|xMT,543,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,Ben Avon - Leabaidh an Daimh Bhuidhe,1172.0,True,Ma|M|Sim,536,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,Cnap a' Chleirich,1174.0,False,MT|Sim,535,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,Cnap a' Chleirich,1174.0,False,MT|Sim,535,False
+7346246884,Bed and Board of the Blond Stag,2022-06-21T10:33:00,Hike,25063.2,1024.6,Beinn a' Bhuird [Beinn a' Bhuird North Top],1197.0,True,Ma|M|Sim,529,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Carn a' Mhaim,1037.0,True,Ma|M|Sim,567,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Sron Riach,1113.0,False,MT|sSim,552,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Ben Macdui [Beinn Macduibh],1309.0,True,Ma|M|Sim|CoH|CoU|CoA,518,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Creagan a' Choire Etchachan,1108.0,False,MT|Sim,554,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Derry Cairngorm,1155.0,True,Hu|M|Sim|sMa,539,False
+7340445974,Lunching on the Big Mac,2022-06-20T09:52:33,Hike,23799.5,1392,Little Cairngorm,1040.0,False,xMT,566,False
+7314168365,Above Glen Geldie,2022-06-15T12:12:12,Hike,17187.7,825.9,Carn an Fhidhleir [Carn Ealar],994.0,True,Ma|M|Sim,408,False
+7314168365,Above Glen Geldie,2022-06-15T12:12:12,Hike,17187.7,825.9,An Sgarsoch,1006.5,True,Ma|M|Sim,407,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Carn Bhac,945.1,True,Ma|M|Sim,432,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Carn Bhac SW Top,918.1,False,MT|sSim,436,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Beinn Iutharn Mhor,1045.0,True,Ma|M|Sim,425,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Carn an Righ,1029.0,True,Ma|M|Sim,426,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Glas Tulaichean,1051.0,True,Ma|M|Sim,424,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,An Socach,944.0,True,Ma|M|Sim,433,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,An Socach East Top,938.0,False,MT|Sim,434,False
+7320847640,Ey Five,2022-06-16T10:52:24,Hike,29306,1670.1,Carn Cruinn,863.0,False,sSim,6002,False
+7076053873,Beinn a' Bheithir Horseshoe,2022-05-02T11:04:38,Run,17760.5,1394.3,Sgorr Bhan,947.0,False,MT|Sim,205,False
+7076053873,Beinn a' Bheithir Horseshoe,2022-05-02T11:04:38,Run,17760.5,1394.3,Beinn a' Bheithir - Sgorr Dhearg,1024.0,True,Ma|M|Sim,195,False
+7076053873,Beinn a' Bheithir Horseshoe,2022-05-02T11:04:38,Run,17760.5,1394.3,Beinn a' Bheithir - Sgorr Dhonuill,1001.0,True,Ma|M|Sim,198,False
+7039389007,A Ton and a Dalmatian by the A9,2022-04-25T12:20:06,Hike,19634.2,864.5,Carn na Caim South Top [Mullach Coire nan Cisteachan],914.6,False,MT|Sim,394,False
+7039389007,A Ton and a Dalmatian by the A9,2022-04-25T12:20:06,Hike,19634.2,864.5,Carn na Caim,940.8,True,Ma|M|Sim,389,False
+7039389007,A Ton and a Dalmatian by the A9,2022-04-25T12:20:06,Hike,19634.2,864.5,A' Bhuidheanach Bheag,936.1,True,Hu|M|Sim,390,False
+6885658485,Keen for Spring,2022-03-26T09:39:35,Hike,18015.7,701.9,Mount Keen,939.0,True,Ma|M|Sim,485,False
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Carn Dearg,1034.0,True,Ma|M|Sim,352,True
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Geal-charn,1132.0,True,Ma|M|Sim,346,False
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Aonach Beag,1115.8,True,M|Sim|sHu,347,False
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Beinn Eibhinn,1103.3,True,Hu|M|Sim,348,False
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Ben Alder,1148.0,True,Ma|M|Sim,345,False
+5894724118,Barbequed in Ben Alder Forest,2021-09-02T07:34:54,Hike,28428.4,1904.8,Beinn Bheoil,1019.0,True,Ma|M|Sim,354,False
+5894705166,Bonus munroing,2021-09-01T14:01:25,Hike,6463.7,511.8,Meall Chuaich,951.0,True,Ma|M|Sim,388,False
+5874184162,The Cairn Toul Traverse: Fully Loaded,2021-08-29T09:24:17,Hike,23162.9,1274.2,The Devil's Point,1006.9,True,Sim|M|sHu,575,False
+5874184162,The Cairn Toul Traverse: Fully Loaded,2021-08-29T09:24:17,Hike,23162.9,1274.2,Cairn Toul,1291.0,True,Ma|M|Sim,521,False
+5874184162,The Cairn Toul Traverse: Fully Loaded,2021-08-29T09:24:17,Hike,23162.9,1274.2,Sgor an Lochain Uaine,1258.0,True,Hu|M|Sim,523,False
+5874184162,The Cairn Toul Traverse: Fully Loaded,2021-08-29T09:24:17,Hike,23162.9,1274.2,Braeriach,1296.0,True,Ma|M|Sim,519,False
+5817277411,Feeding the midges on Beinn na Lap,2021-08-19T08:22:46,Hike,9696,572.7,Beinn na Lap,935.0,True,Ma|M|Sim,364,False
+5792565986,Schiehallion,2021-08-14T14:28:12,Hike,10650.7,732.8,Schiehallion,1083.0,True,Ma|M|Sim,103,False
+5643645371,Mamlorn forest,2021-07-17T10:14:48,Hike,28705.9,1397.3,Creag Mhor,1046.8,True,Ma|M|Sim,148,False
+5643645371,Mamlorn forest,2021-07-17T10:14:48,Hike,28705.9,1397.3,Beinn Sheasgarnaich [Beinn Heasgarnich],1077.4,True,Ma|M|Sim,145,False
+5558761538,Visiting the Shepherd,2021-07-01T09:09:59,Run,12097.9,1111.4,Buachaille Etive Mor - Stob Dearg,1021.4,True,Ma|M|Sim,196,False
+5558761538,Visiting the Shepherd,2021-07-01T09:09:59,Run,12097.9,1111.4,Buachaille Etive Mor - Stob na Broige,953.4,True,Hu|M|Sim,203,False
+5457998378,Above Lochan nan Cat,2021-06-12T10:32:22,Hike,18378.7,1198.3,Meall Greigh,1001.0,True,Ma|M|Sim,154,False
+5457998378,Above Lochan nan Cat,2021-06-12T10:32:22,Hike,18378.7,1198.3,Meall Garbh,1123.1,True,Ma|M|Sim,143,False
+5457998378,Above Lochan nan Cat,2021-06-12T10:32:22,Hike,18378.7,1198.3,An Stuc,1117.1,True,Hu|M|Sim,142,False
+5301862175,Meall Corranaich and Meall a'Choire Leith,2021-05-15T11:36:43,Hike,10914.4,760,Meall Corranaich,1069.0,True,Ma|M|Sim,146,False
+5301862175,Meall Corranaich and Meall a'Choire Leith,2021-05-15T11:36:43,Hike,10914.4,760,Meall a' Choire Leith,925.6,True,Ma|M|Sim,163,False
+5185380805,Meall Glas agus Sgiath Chuil,2021-04-24T11:41:26,Hike,17585.1,1139.1,Meall Glas,959.3,True,Ma|M|Sim,158,False
+5185380805,Meall Glas agus Sgiath Chuil,2021-04-24T11:41:26,Hike,17585.1,1139.1,Sgiath Chuil,920.1,True,Ma|M|Sim,165,False
+4083316808,Beinn Ghlas and Ben Lawers,2020-09-19T12:45:12,Hike,11474.1,892.5,Beinn Ghlas,1103.0,True,Hu|M|Sim,144,False
+4083316808,Beinn Ghlas and Ben Lawers,2020-09-19T12:45:12,Hike,11474.1,892.5,Ben Lawers,1214.0,True,Ma|M|Sim|CoH|CoU|CoA,141,False
+4016319273,Meall nan Tarmachan,2020-09-05T12:33:31,Hike,13892.8,780.5,Meall nan Tarmachan,1043.6,True,Ma|M|Sim,149,False
+3935546155,Unfinished business on the Black Mounth,2020-08-19T09:11:56,Hike,11880.7,1062.6,Meall a' Bhuiridh,1107.9,True,Ma|M|Sim,233,False
+3935546155,Unfinished business on the Black Mounth,2020-08-19T09:11:56,Hike,11880.7,1062.6,Creise,1099.8,True,Ma|M|Sim,235,False
+3935546155,Unfinished business on the Black Mounth,2020-08-19T09:11:56,Hike,11880.7,1062.6,Meall a' Bhuiridh,1107.9,True,Ma|M|Sim,233,False
+3927282907,Above Loch Tulla,2020-08-17T09:17:04,Hike,26174.2,1793.9,Beinn Mhanach,953.0,True,Ma|M|Sim,122,False
+3927282907,Above Loch Tulla,2020-08-17T09:17:04,Hike,26174.2,1793.9,Beinn a' Chreachain,1080.6,True,Ma|M|Sim,104,False
+3927282907,Above Loch Tulla,2020-08-17T09:17:04,Hike,26174.2,1793.9,Beinn Achaladair,1038.6,True,Ma|M|Sim,108,False
+3917833856,Visiting Glen Lyon again,2020-08-15T10:11:43,Hike,20001.1,1279.2,Carn Gorm,1029.0,True,Ma|M|Sim,109,False
+3917833856,Visiting Glen Lyon again,2020-08-15T10:11:43,Hike,20001.1,1279.2,Meall Garbh,968.0,True,Hu|M|Sim,118,False
+3917833856,Visiting Glen Lyon again,2020-08-15T10:11:43,Hike,20001.1,1279.2,Carn Mairg,1042.0,True,Ma|M|Sim,107,False
+3917833856,Visiting Glen Lyon again,2020-08-15T10:11:43,Hike,20001.1,1279.2,Creag Mhor,1046.8,True,Ma|M|Sim,148,False
+3907890793,A day of the Mounth,2020-08-13T08:29:45,Hike,29308.7,1244.8,Lochnagar - Cac Carn Beag,1155.7,True,Ma|M|Sim,457,False
+3907890793,A day of the Mounth,2020-08-13T08:29:45,Hike,29308.7,1244.8,Carn a' Choire Bhoidheach,1109.9,True,M|Sim,459,False
+3907890793,A day of the Mounth,2020-08-13T08:29:45,Hike,29308.7,1244.8,Carn an t-Sagairt Mor,1047.0,True,M|Sim,465,False
+3907890793,A day of the Mounth,2020-08-13T08:29:45,Hike,29308.7,1244.8,Cairn Bannoch,1012.0,True,M|Sim,468,False
+3907890793,A day of the Mounth,2020-08-13T08:29:45,Hike,29308.7,1244.8,Broad Cairn,998.0,True,M|Sim,470,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Carn an Tuirc,1019.0,True,M|Sim,467,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Tolmount,958.0,True,M|Sim,479,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Tom Buidhe,957.0,True,M|Sim,480,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Cairn of Claise,1064.0,True,Hu|M|Sim,463,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Glas Maol,1068.0,True,Ma|M|Sim|CoH|CoU,461,False
+3898083174,Flavour of the Mounth,2020-08-11T07:54:47,Hike,27066.2,1162.5,Creag Leacach,988.2,True,M|Sim,472,False
+3849719897,Stuchd an Lochain,2020-08-01T13:11:58,Hike,9234.7,629,Stuc an Lochain [Stuchd an Lochain],960.0,True,Ma|M|Sim,120,False
+3801239066,Above Glen Lyon,2020-07-22T12:39:29,Hike,9118.5,506.5,Meall Buidhe,932.1,True,Ma|M|Sim,123,True
+3747272839,Beinn Challuim,2020-07-11T12:29:00,Hike,13334.6,858.7,Beinn Challuim [Ben Challum],1025.0,True,Ma|M|Sim,152,False
+3713172723,Meall Ghaordaidh,2020-07-04T12:44:27,Hike,10686.1,889,Meall Ghaordaidh,1039.8,True,Ma|M|Sim,150,False
+2602185438,Mayar & Driesh,2019-08-08T11:49:59,Run,14813.7,1014,Mayar,928.6,True,Hu|M|Sim,486,False
+2602185438,Mayar & Driesh,2019-08-08T11:49:59,Run,14813.7,1014,Driesh,947.6,True,Hu|M|Sim,483,False
+2596182577,"Carn Aosda, Carn a' Gheoidh, and The Cairnwell",2019-08-06T13:10:05,Hike,13678.9,760,Carn Aosda,915.3,True,Hu|M|Sim,438,False
+2596182577,"Carn Aosda, Carn a' Gheoidh, and The Cairnwell",2019-08-06T13:10:05,Hike,13678.9,760,Carn a' Gheoidh,975.0,True,Ma|M|Sim,428,False
+2596182577,"Carn Aosda, Carn a' Gheoidh, and The Cairnwell",2019-08-06T13:10:05,Hike,13678.9,760,The Cairnwell,933.0,True,Hu|M|Sim,435,False
+2534335596,Fair Monday Munros,2019-07-15T16:37:23,Run,17810.3,1370,Beinn a' Chochuill,980.0,True,Ma|M|Sim,251,False
+2534335596,Fair Monday Munros,2019-07-15T16:37:23,Run,17810.3,1370,Beinn Eunaich,989.0,True,Ma|M|Sim,249,False
+2428356635,Run-ro bagging,2019-06-06T11:26:34,Run,13185.2,787,Ben Chonzie,931.0,True,Ma|M|Sim,1,False
+2423906529,Half the Black Mount,2019-06-04T09:57:27,Hike,11180.9,1325,Stob a' Choire Odhair,945.0,True,Ma|M|Sim,255,False
+2423906529,Half the Black Mount,2019-06-04T09:57:27,Hike,11180.9,1325,Stob Ghabhar,1090.0,True,Ma|M|Sim,237,False
+2342343979,Ardlui to Tarbet via the high road,2019-05-04T09:53:21,Hike,20414.5,2010.6,Ben Vorlich,943.0,True,Ma|M|Sim|CoH,71,False
+2342343979,Ardlui to Tarbet via the high road,2019-05-04T09:53:21,Hike,20414.5,2010.6,Ben Vane,915.76,True,Ma|M|Sim,76,False
+2310695167,Beinn Bhuidhe,2019-04-22T10:50:44,Hike,22150.9,932.2,Beinn Bhuidhe,948.5,True,Ma|M|Sim,70,False
+1801552542,"Beinn a' Chroin, Beinn Chabhair & An Caisteal",2018-08-27T11:05:17,Hike,18916.5,1455.9,Beinn a' Chroin,941.4,True,Hu|M|Sim,2925,False
+1801552542,"Beinn a' Chroin, Beinn Chabhair & An Caisteal",2018-08-27T11:05:17,Hike,18916.5,1455.9,Beinn Chabhair,932.2,True,Ma|M|Sim,38,False
+1801552542,"Beinn a' Chroin, Beinn Chabhair & An Caisteal",2018-08-27T11:05:17,Hike,18916.5,1455.9,An Caisteal,995.9,True,Ma|M|Sim,31,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,Mullach nan Coirean,939.3,True,M|Sim|sHu,321,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,Stob Ban,999.7,True,Ma|M|Sim,309,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,Sgurr a' Mhaim,1099.0,True,Ma|M|Sim,295,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,Am Bodach,1031.8,True,Ma|M|Sim,303,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,Stob Coire a' Chairn,981.3,True,Hu|Sim|M,313,False
+1790760417,Western Mamores,2018-08-22T07:56:54,Hike,33409.5,1682.3,An Gearanach,981.5,True,Ma|M|Sim,312,False
+1706510497,Ben More and Stob Binnein,2018-07-16T10:57:51,Hike,12551.6,1275.8,Ben More,1174.0,True,Ma|M|Sim|CoU|CoA,26,False
+1706510497,Ben More and Stob Binnein,2018-07-16T10:57:51,Hike,12551.6,1275.8,Stob Binnein,1165.0,True,Ma|M|Sim,27,False
+1701884568,Beinn Dorain and Beinn an Dothaidh,2018-07-14T09:29:20,Hike,8918.5,248.9,Beinn Dorain,1076.0,True,Ma|M|Sim,105,False
+1701884568,Beinn Dorain and Beinn an Dothaidh,2018-07-14T09:29:20,Hike,8918.5,248.9,Beinn an Dothaidh,1004.0,True,Ma|M|Sim,112,False
+1701882999,Ascent of Beinn Dorain,2018-07-13T19:20:05,Hike,5300.5,875.2,Beinn Dorain,1076.0,True,Ma|M|Sim,105,False
+1687583529,Beating the Tyndrum 4,2018-07-07T09:23:18,Hike,18813.3,1267.3,Ben Lui [Beinn Laoigh],1131.4,True,Ma|M|Sim,65,False
+1687583529,Beating the Tyndrum 4,2018-07-07T09:23:18,Hike,18813.3,1267.3,Beinn a' Chleibh,916.3,True,Hu|M|Sim|sMa,75,False
+1687583529,Beating the Tyndrum 4,2018-07-07T09:23:18,Hike,18813.3,1267.3,Beinn Dubhchraig,978.0,True,Ma|M|Sim,69,False
+1672732705,Ben Cruachan & Stob Daimh,2018-06-30T11:06:40,Hike,20537.3,1347.8,Ben Cruachan,1127.0,True,Ma|M|Sim|CoU|CoA,232,False
+1672732705,Ben Cruachan & Stob Daimh,2018-06-30T11:06:40,Hike,20537.3,1347.8,Stob Daimh [Stob Diamh],999.2,True,Hu|M|Sim,244,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr an Fhuarail South Top,854.0,False,Sim,3213,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr an Fhuarail,987.0,False,MT|Sim,832,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Aonach Meadhoin,1001.0,True,Ma|M|Sim,828,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr a' Bhealaich Dheirg,1036.0,True,Ma|M|Sim,821,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr a' Bhealaich Dheirg West Top,911.0,False,sSim,3673,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Saileag,956.0,True,M|Sim|sHu,839,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Beinn Odhar,895.0,False,sSim,6446,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr nan Spainteach,990.0,False,MT|Sim,831,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr na Ciste Duibhe,1027.0,True,Ma|M|Sim,825,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr na Carnach,1002.0,True,Hu|M|Sim,827,False
+1622753749,The Brothers and Sisters of Kintail,2018-06-06T09:25:43,Hike,23600.7,1915.9,Sgurr Fhuaran,1068.8,True,Ma|M|Sim,815,False
+1602332200,Beinn Tulaichean & Cruach Ardrain,2018-05-28T13:19:51,Hike,13946,1029.8,Beinn Tulaichean,945.8,True,Hu|M|Sim,35,False
+1602332200,Beinn Tulaichean & Cruach Ardrain,2018-05-28T13:19:51,Hike,13946,1029.8,Cruach Ardrain,1045.9,True,Ma|M|Sim,30,False
+1570418856,Ben Vorlich and Stuc A Chroin,2018-05-13T13:47:57,Hike,15518,1114.9,Ben Vorlich,985.3,True,Ma|M|Sim,17,False
+1570418856,Ben Vorlich and Stuc A Chroin,2018-05-13T13:47:57,Hike,15518,1114.9,Stuc a' Chroin,973.0,True,Ma|M|Sim,18,False
+7860892514,Càrn a' Chlamain and Glen Tilt,2022-09-24T11:13:53,Hike,30371.1,1109.9,Carn a' Chlamain,963.5,True,Ma|M|Sim,409,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Mullach na Maoile,761.0,False,sSim,6599,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Carn nan Gobhar,992.0,True,Hu|M|Sim,895,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Sgurr na Lapaich,1151.0,True,Ma|M|Sim,926,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Riabhachan NE Top,1125.0,False,xMT,928,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Riabhachan,1129.0,True,Ma|M|Sim,927,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Riabhachan SW Top,1086.0,False,MT,930,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Riabhachan West Top,1038.0,False,MT|Sim,934,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Socach East Top,1057.0,False,Un,932,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Socach,1069.0,True,Ma|M|Sim,931,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Mullach Sithidh,974.0,False,MT|Sim,835,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Mullach na Dheiragain,982.0,True,Hu|M|Sim|sMa,833,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Carn na Con Dhu,967.0,False,MT|Sim,836,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Sgurr nan Ceathramhnan [Sgurr nan Ceathreamhnan],1151.0,True,Ma|M|Sim,805,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Sgurr nan Ceathreamhnan East Top,969.0,False,xMT,837,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Stob Coire nan Dearcag,939.1,False,sSim|xMT,843,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Stob Coire na Cloiche,912.5,False,Sim|xMT|CT,850,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Socach West Top,841.5,False,sSim,6449,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Socach,919.7,True,Hu|M|Sim,845,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Socach East Top,903.8,False,Sim,852,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Mam Sodhail,1179.4,True,Hu|M|Sim,804,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Carn Eighe,1182.8,True,Ma|M|Sim|CoH,803,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Beinn Fhionnlaidh,1004.8,True,Ma|M|Sim,826,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Stob Coire Lochan,916.9,False,MT|sSim,849,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Stob a' Choire Dhomhain,1146.5,False,MT|Sim,806,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Stob Coire Dhomhnuill,1139.1,False,MT|Sim,808,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Sron Garbh,1131.0,False,MT|sSim,809,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,An Leth-chreag,1051.0,False,MT|Sim,819,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Tom a' Choinich Beag,1032.0,False,MT,824,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Tom a' Choinnich,954.0,False,MT|Sim,1090,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Toll Creagach West Top,951.0,False,MT|sSim,841,False
+19013216882,Loch Mullardoch Haute,2026-06-20T09:12:02,Hike,63311.6,5634,Toll Creagach,1054.0,True,Ma|M|Sim,818,False
+19256672377,Gairich,2026-07-10T11:38:33,TrailRun,16413.8,904,Gairich,919.0,True,Ma|M|Sim,741,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,A' Ghlas-bheinn,918.0,True,Ma|M|Sim,846,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,A' Ghlas-bheinn South Top,758.0,False,Sim,4313,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Beinn Fhada,1031.9,True,Ma|M|Sim,823,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Meall an Fhuarain Mhoir,954.9,False,MT|Sim,840,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Ceum na h-Aon-choise South Top,922.1,False,sSim,848,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Ceum na h-Aon-choise,924.9,False,sSim,19492,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Sgurr a' Choire Ghairbh,864.2,False,sSim,6448,False
+19273716596,Beinn Fhada and Co,2026-07-11T09:49:38,Hike,24771.3,1961,Faradh Nighean Fhearchair,881.2,False,Sim,3209,False
+19285438517,Unfinished business in Kintail,2026-07-12T10:39:18,Hike,19215.5,1309,A' Chioch,946.6,False,MT|Sim,872,False
+19285438517,Unfinished business in Kintail,2026-07-12T10:39:18,Hike,19215.5,1309,A' Chraileag [A' Chralaig],1120.0,True,Ma|M|Sim,862,False
+19285438517,Unfinished business in Kintail,2026-07-12T10:39:18,Hike,19215.5,1309,Stob Coire na Craileig [Stob Coire na Cralaig],1008.0,False,MT|Sim,866,False
+19285438517,Unfinished business in Kintail,2026-07-12T10:39:18,Hike,19215.5,1309,Mullach Fraoch-choire,1102.0,True,Ma|M|Sim,864,False
