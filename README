@@ -1,1 +1,18 @@
-Hill-related code and projects.
+# British and Irish Hills
+
+This repository contains scripts for working with the Database of British and Irish Hills (DBOBIH). 
+
+## Features
+
+### Downloading the Database
+To download the latest version of the DBOBIH database, you can use the provided script:
+
+```bash
+bash scripts/download_dbobih.sh
+```
+
+### Convert the Database to modern formats
+
+The database is distributed in Excel format which is relatively awkward to work with. The repository includes scripts to convert the Excel files into more manageable formats such as CSV or JSON.
+
+
